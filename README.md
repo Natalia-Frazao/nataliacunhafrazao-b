@@ -4,14 +4,15 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
 - 🔭 Procurando um estágio na área de TI ...
 - 🌱 Atualmente estou aprendendo Java,Banco de dados MySQL e ux design ...
 - 😄 Pronouns:Ela/Dela
 
-<div
+
+<div>
+ 
 <a href="https://instagram.com/nath.frazao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/ natalitarja#3540 " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/ natalitarja " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:nataliacunhafrazao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
 </div>
 
